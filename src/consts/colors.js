@@ -1,5 +1,5 @@
 export const Colors = {
-  background: 'black',
-  text: 'white',
-  mainColor: 'red',
+  background: 'lightblue',
+  text: 'black',
+  mainColor: '#81A594',
 };
